@@ -1,0 +1,11 @@
+boot.img
+my_heytap.img
+my_stock.img
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk
+modem.img
+my_product.img
+my_region.img
+odm/etc/camera/model/license.lic
+odm/etc/camera/license_release_fdc.lic
+odm/etc/camera/singleblur/license_release.lic
